@@ -1,0 +1,42 @@
+body {
+	padding-top: 70px;
+	font: 14px "Lantinghei SC","Open Sans",Arial,"Hiragino Sans GB","Microsoft YaHei",STHeiti,"WenQuanYi Micro Hei",SimSun,sans-serif;
+}
+.websites ul li.first a {
+	font-size: 16px;
+	/*color: #337ab7;*/
+	color: #28A19E;
+}
+.websites ul li.first {
+	width: 100px;
+}
+.websites ul li {
+	float: left;
+	list-style: none;
+	padding: 0 10px;
+}
+.websites ul li a {
+	color: #222;
+}
+.websites ul li a img {
+    vertical-align: middle;
+    border: none;
+    margin-left: 0px;
+    margin-right: 4px;
+}
+.collect {
+    position: relative;
+    border-radius: 4px;
+    transition: all 0.2s;
+    padding: 15px 0 10px;
+    margin-bottom: 0;
+    border-bottom: 1px dashed #ccc;
+}
+.collect:hover {
+	background: #F6F6F6;
+}
+.block {
+	display: block;
+	float: left;
+	margin: 2px 2px 0 0;
+}
